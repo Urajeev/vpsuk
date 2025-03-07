@@ -1,0 +1,115 @@
+{
+    "schoolName": "Veena Public School",
+    "logo": "images/logo.png",
+    "contact": {
+      "email": "vpsukhai@gmail.com",
+      "address": "Vill Ukhai Purab Patti, PO, Ukhai, Dist Siwan, Bihar 841227",
+      "phone": "+91 123 456 7890"
+    },
+    "notifications": [
+      "Admissions open for the academic year 2024-25.",
+      "Parent-Teacher Meeting on 15th November 2023.",
+      "Annual Sports Day on 20th December 2023."
+    ],
+    "feeStructure": {
+      "nursery": "₹10,000 per annum",
+      "kg": "₹12,000 per annum",
+      "class1to5": "₹15,000 per annum",
+      "class6to8": "₹18,000 per annum",
+      "class9to10": "₹20,000 per annum"
+    },
+    "results": [
+      {
+        "session": "2022-23",
+        "class": "V",
+        "rollNo": "101",
+        "studentName": "Rahul Kumar",
+        "fatherName": "Rajesh Kumar",
+        "section": "A",
+        "admNo": "12345",
+        "marks": {
+          "Hindi": 85,
+          "English": 90,
+          "Maths": 95,
+          "Science": 88,
+          "Social Science": 92,
+          "GK": 80,
+          "Computer": 89,
+          "SNK Urdu": 78,
+          "HandCraft": 45,
+          "Music": 40,
+          "Oral": 42,
+          "PT": 38
+        }
+      },
+      {
+        "session": "2023-24",
+        "class": "VII",
+        "rollNo": "202",
+        "studentName": "Priya Singh",
+        "fatherName": "Vikram Singh",
+        "section": "B",
+        "admNo": "67890",
+        "marks": {
+          "Hindi": 92,
+          "English": 88,
+          "Maths": 94,
+          "Science": 90,
+          "Social Science": 85,
+          "GK": 82,
+          "Computer": 91,
+          "SNK Urdu": 76,
+          "HandCraft": 43,
+          "Music": 41,
+          "Oral": 39,
+          "PT": 37
+        }
+      },
+          {
+            "session": "2022-23",
+            "class": "V",
+            "rollNo": "101",
+            "studentName": "Rahul Kumar",
+            "fatherName": "Rajesh Kumar",
+            "section": "A",
+            "admNo": "12345",
+            "marks": {
+              "Hindi": 85,
+              "English": 90,
+              "Maths": 95,
+              "Science": 88,
+              "Social Science": 82,
+              "GK": 78,
+              "Computer": 92,
+              "SNK Urdu": 80,
+              "HandCraft": 45,
+              "Music": 40,
+              "Oral": 42,
+              "PT": 38
+            }
+          },
+          {
+            "session": "2023-24",
+            "class": "V",
+            "rollNo": "102",
+            "studentName": "Priya Singh",
+            "fatherName": "Ramesh Singh",
+            "section": "B",
+            "admNo": "12346",
+            "marks": {
+              "Hindi": 92,
+              "English": 88,
+              "Maths": 94,
+              "Science": 90,
+              "Social Science": 85,
+              "GK": 80,
+              "Computer": 95,
+              "SNK Urdu": 85,
+              "HandCraft": 48,
+              "Music": 42,
+              "Oral": 45,
+              "PT": 40
+            }
+          }
+    ]
+  }
